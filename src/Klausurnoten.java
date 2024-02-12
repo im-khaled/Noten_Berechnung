@@ -1,4 +1,7 @@
-
+/*
+ * Author: Khaled M.
+ * Years: 2022
+ */
 public class Klausurnoten {
 
 	public static void verarbeiteKlausurPunktzahl (int [] punkte, int [] punktGrenzen ) {
